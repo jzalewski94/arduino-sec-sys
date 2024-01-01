@@ -1,10 +1,17 @@
 Keypad Pin Assignments: 
 PCB PINS READ FROM LEFT TO RIGHT
-  5  BLK - 2
-  6  WHT - 3
-   7 BLUE - 4
-   8 GRN - 5
-  1  BRWN - 6
-  2  RED - 7
-  3  ORGN - 8
-  4  YELLOW - 9
+ 
+
+
+PCB PINS >>>>>> KEYBOARD PINS (SOLDERED) (READ LEFT TO RIGHT FROM BACK OF KEYPAD)
+
+
+2  GRN - PIN 5 
+3  WHT - PIN 6
+4  BLK - PIN 7
+5  LGHT BLUE - PIN 8
+6  GRN - PIN 1
+7  BRWN - PIN 2
+8 RED - PIN 3
+9 LGHT BLUE - 4
+                
