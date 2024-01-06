@@ -14,3 +14,12 @@ Items Used:
 Amazon Link: https://www.amazon.com/hz/wishlist/ls/1QPFONZCPDYVN?ref_=wl_share
 
 
+
+
+
+Mockup Update 1/6/2024:
+
+The latest model files and mock-up files are the finalized mock-up models. I will now work on an Alpha design that will look more visually pleasing while remaining durable. 
+The code for the controller is still being developed and worked on as well. 
+
+
